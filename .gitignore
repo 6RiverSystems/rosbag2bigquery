@@ -1,0 +1,25 @@
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+*.env
+.DS_Store
+.project
+.strong-pm
+npm-debug.log
+.idea/
+.serverless/
+
+# Resource directories
+node_modules
+coverage
+dist-test
+dist
