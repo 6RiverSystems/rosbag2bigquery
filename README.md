@@ -1,5 +1,7 @@
 # rosbag2bigquery
 
+Please visit the 6 River Systems engineering blog for more information:  https://6river.com/data-driven-robotics-leveraging-google-cloud-platform-and-big-data-to-improve-robot-behaviors/
+
 ## Setup
 
 First, make sure you are using node version 10.18.1.
